@@ -9,7 +9,7 @@ const Hero = () => {
       >
         <h2>
           {" "}
-          Hey, I'm Saba Kobaidze -<br></br> Cool guy with life
+          Hey, I'm Saba Kobaidze -<br></br>
         </h2>
       </div>
       <div className="hero-button sm:px-20 px-10 text-white dark:text-textcolor ">
